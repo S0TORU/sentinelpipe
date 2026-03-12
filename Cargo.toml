@@ -1,0 +1,13 @@
+[workspace]
+resolver = "2"
+
+members = [
+  "sentinelpipe-core",
+  "sentinelpipe-pipeline",
+  "sentinelpipe-targets",
+  "sentinelpipe-packs",
+  "sentinelpipe-scorers",
+  "sentinelpipe-cli",
+  "sentinelpipe-mcp",
+  "gazetent-web",
+]
