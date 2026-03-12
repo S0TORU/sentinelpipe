@@ -2,6 +2,16 @@
 
 ![SentinelPipe banner](docs/images/sentinelpipe-banner.svg)
 
+<p align="center"><strong>Evidence-first deterministic red teaming for LLMs and agents.</strong></p>
+
+<p align="center">
+  <a href="#quick-start">Quick Start</a> •
+  <a href="#cli">CLI</a> •
+  <a href="#mcp">MCP</a> •
+  <a href="gazetentwhitepaper_research_paper_revised.md">Research Paper</a> •
+  <a href="benchmarks/2026-03-11_ollama_head_to_head_gemma4b/REPORT.md">Benchmark</a>
+</p>
+
 Author: Aanu Oshakuade
 
 I built SentinelPipe to make LLM red teaming feel operational instead of hand-wavy.
